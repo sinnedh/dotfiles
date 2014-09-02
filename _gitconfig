@@ -1,6 +1,7 @@
 [user]
     name = Dennis Hellmich
     email = dennish@gmx.de
+    merge.tool = vimdiff
 
 [color]
     diff = auto
